@@ -1,0 +1,56 @@
+
+    body {
+      background-color: #eab933;
+      
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-transform: capitalize;
+    }
+    .container-fluid {
+      
+      padding: 20px;
+    }
+    .emoji-button img {
+      width: 50px;
+      height: 50px;
+    }
+    .guess-table {
+      text-align: center;
+    }
+    #d1 {
+      width: 150px;
+      height: 150px;
+      margin-top: 20px;
+    }
+   
+    .custom-col {
+      padding:200px;
+      background-color: rgb(237, 219, 173);
+      opacity: 0.8;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+     
+    }
+    .custom-col h1 {
+ 
+      margin-bottom: 10px;
+      color:black;
+      font-size: 30px;
+      font-weight: bold;
+      
+    }
+    .bg1{
+  
+       margin-top: 20px;
+       opacity:1;
+       width:200px;
+       border-radius: 10px;
+       box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+    }
+    p{
+        margin-top: 5px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+   
+  
